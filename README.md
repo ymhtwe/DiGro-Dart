@@ -1,2 +1,2 @@
 # DiGro-Dart
-IoT powered Agricultural Water Pumping Unit Monitor and Control System
+IoT powered Agricultural Water Pump station Monitor and Control System
